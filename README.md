@@ -13,6 +13,7 @@ An AI powered exam correction platform and RAG-Based Chatbot.
 | [anti-cheat](https://github.com/MedAmineBada/Cognexus-anti-cheat)               | Detects suspicious behavior and potential cheating during exams             |
 | [document-parser](https://github.com/MedAmineBada/Cognexus-document-parser)     | Extracts text from PDF documents                                            |
 | [external-gateway](https://github.com/MedAmineBada/Cognexus-external-gateway)   | Handles all communication with external APIs, including LLMs and Cloudinary |
+| [external-gateway](https://github.com/MedAmineBada/Cognexus-API-Gateway)   | Handles all incoming requests, managing authentication and authorization |
 
 ---
 
