@@ -14,6 +14,7 @@ An AI powered exam correction platform and RAG-Based Chatbot.
 | [document-parser](https://github.com/MedAmineBada/Cognexus-document-parser)     | Extracts text from PDF documents                                            |
 | [external-gateway](https://github.com/MedAmineBada/Cognexus-external-gateway)   | Handles all communication with external APIs, including LLMs and Cloudinary |
 | [api-gateway](https://github.com/MedAmineBada/Cognexus-API-Gateway)   | Handles all incoming requests, managing authentication and authorization |
+| [system-manager](https://github.com/MedAmineBada/Cognexus-system-manager)   | Acts as a feature flag, system health tracker and JWT Secret Key manager |
 
 ---
 
